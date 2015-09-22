@@ -1,2 +1,2 @@
 # The assignment is:
-    solve this merge conflict
+    solve the merge conflict
